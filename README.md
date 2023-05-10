@@ -1,7 +1,8 @@
-<p align="center">
-	![animated typing gif](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&duration=2500&pause=1500&center=true&vCenter=true&width=600&height=70&lines=Hey,+I+am+Yashvardhan!+👋;)
-	
-</p>
+<div align="center">
+
+  ![animated typing gif](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&duration=2500&pause=1500&center=true&vCenter=true&width=600&height=70&lines=Hey,+I+am+Yashvardhan!;)
+  
+</div>
 
 <p align="center">
 	
