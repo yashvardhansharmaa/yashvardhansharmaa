@@ -45,4 +45,3 @@ As part of my education, I have the incredible opportunity to travel to seven gl
 [![](https://github-readme-stats.vercel.app/api?username=yashvardhansharmaa&hide=contribs,prs&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-# yashvardhansharmaa
