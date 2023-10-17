@@ -10,10 +10,10 @@
 </p>
 
 ## <b>About Me</b> 🙋
-- Interested in Development Economics, Effective Altruism, Data Science, Writing, and Entrepreneurship.
+- Interested in Development Economics, Effective Altruism, AI Safety, Data Science, Writing, and Machine Learning.
 - Studying Data Science and Statistics with Economics at Minerva University.
 - Visit my [LinkedIn](https://www.linkedin.com/in/yashvardhan-sharma-38a092140/) for a quick peek into my current work and past experiences.
-- Currently open for AI-safety/Development Economics related internship opportunities!
+- Currently open for AI-safety/Development Economics-related internship opportunities!
 
 ## <b>My Passion</b> 🔆
 I am fueled by a strong passion for social impact and a relentless drive to address some of the world's most pressing issues. 
