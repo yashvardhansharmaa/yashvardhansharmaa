@@ -38,10 +38,3 @@ As part of my education, I have the incredible opportunity to travel to seven gl
 	<img src="https://a11ybadges.com/badge?logo=pandas" alt="puppeteer" height="28"/>
 	<img src="https://a11ybadges.com/badge?logo=numpy" alt="numpy" height="28"/>
 	<img src="https://a11ybadges.com/badge?logo=scipy" alt="scipy" height="28"/>
-
-<br>
-
-## **Github Stats**
-[![](https://github-readme-stats.vercel.app/api?username=yashvardhansharmaa&hide=contribs,prs&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
