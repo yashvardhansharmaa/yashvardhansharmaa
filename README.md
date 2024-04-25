@@ -32,9 +32,11 @@ As part of my education, I have the incredible opportunity to travel to seven gl
     ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
     <img src="https://a11ybadges.com/badge?logo=scikitlearn" alt="scikit-learn" height="28"/>
     <img src="https://a11ybadges.com/badge?logo=pytorch" alt="PyTorch" height="28"/>
+    ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 - **Libraries**:
 	
 	<img src="https://a11ybadges.com/badge?logo=pandas" alt="puppeteer" height="28"/>
 	<img src="https://a11ybadges.com/badge?logo=numpy" alt="numpy" height="28"/>
 	<img src="https://a11ybadges.com/badge?logo=scipy" alt="scipy" height="28"/>
+ 	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
